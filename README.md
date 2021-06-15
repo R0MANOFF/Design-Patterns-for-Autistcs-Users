@@ -2,4 +2,5 @@
 This repository was created to host a static website containing information about design patterns to develop interfaces for autistic users.
 
 DEXTERS LAB
-author: Nathasha Pinto
+
+Author: Nathasha Pinto
