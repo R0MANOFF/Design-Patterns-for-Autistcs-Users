@@ -1,0 +1,91 @@
+
+/*------------- FONTES ------------*/
+@font-face {
+    src: url(fonts/Jomhuria-Regular.ttf);
+    font-family: 'Jomhuria-Regular';    
+    font-weight: normal;
+} 
+body{
+	font-family: 'Jomhuria-Regular'; 
+}
+
+
+
+/*-------------- HEADER--------------*/
+
+#header {
+    position: fixed;
+    left: 0;
+    top: 0;
+    right: 0;
+    transition: all 0.5s;
+    z-index: 997;
+    transition: all 0.5s;
+    box-shadow: 5px 5px 5px rgba(0,0,0,0.5);
+  }
+
+.img-slid{
+    margin-top: 20px;
+}
+
+/*-------------Body-------------*/
+
+.about-content{
+    padding: 30px;
+    background-color: #E4EAEF;
+}
+
+.about-content-img{
+    padding: 30px;
+    background-color:#E3E7EB;
+}
+
+.container-text{
+    text-align: justify;
+    position: relative;
+
+}
+
+
+.carditem{
+    width: 49%;
+    text-align: center;
+    display: flex;
+    align-items: center;
+}
+ 
+
+.body-gr{
+    padding-top: 70px;
+}
+
+
+/*----------footer---------*/
+
+
+#footer {
+    background: #3F88C5;
+    padding: 0 0 10px 0;
+    color: #eee;
+    font-size: 14px;
+  }
+
+#footer .footer-top {
+    background: #3F88C5 ;
+    padding: 5px 15px 5px 15px;
+}
+
+#footer .footer-top .footer-info {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+
+#footer .copyright {
+    text-align: center;
+    padding-top: 10px;
+}
+
+#footer .copyright p {
+    font-size: small;
+}
