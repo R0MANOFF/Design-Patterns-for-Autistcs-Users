@@ -4,3 +4,5 @@ This repository was created to host a static website containing information abou
 DEXTERS LAB
 
 Author: Nathasha Pinto
+
+Site: https://r0manoff.github.io/Design-Patterns-for-Autistcs-Users/
