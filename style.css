@@ -11,7 +11,7 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6{
   line-height: 1.2;
 }
 
-p, ul, li{
+p, ul, li, a{
   font-family: 'Work Sans', sans-serif;
 }
 
@@ -138,6 +138,13 @@ p {
 
 }
 
+.design-p{
+  display: block;
+}
+.design-p h2{
+  display: inline-block;
+}
+
 .carditem{
     width: 49%;
     display: flex;
@@ -161,10 +168,11 @@ p {
 }
 
 .divider{
-    margin-top: 2px;
+    margin-top: px;
     max-width: 3.25rem;
     border-width: 0.2rem;
-    border-color: #3F88C5;
+    /*border-color: #3F88C5;*/
+    border-color: #ffc107;
 }
 
 .tittle-ab{
@@ -176,6 +184,14 @@ p {
 text-align: center;
 }
 
+.metodologia{
+  padding-top: 100px;
+  display: block;
+}
+
+.metodologia h2{
+  text-align: center;
+}
 
 /*----------footer---------*/
 
